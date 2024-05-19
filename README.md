@@ -32,7 +32,8 @@ To run the Bank System locally, you will need the following:
 * MySQL
 
 1. Clone this repository:
-   https://github.com/zukaargjend/BankSystem.git
+   
+   git clone https://github.com/zukaargjend/BankSystem.git
 ### Usage
 
 * Transaction Operations
